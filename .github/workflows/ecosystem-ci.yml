@@ -22,6 +22,7 @@ jobs:
           - monodon-rust
           - nx-aws-lambda
           - nx-deno
+          - nx-dotnet
           - nx-examples
           - nx-netlify
           - nx-nx-ignore
